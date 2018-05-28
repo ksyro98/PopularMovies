@@ -15,7 +15,7 @@ public class NetworkUtils {
     private static final String TRAILER_URL = "videos";
     private static final String REVIEWS_URL = "reviews";
     private static final String PARAM_API_KEY = "api_key";
-    private static final String API_KEY = BuildConfig.API_KEY;//"d430c3dd411a1487822cd0ab3e9f4ca8";
+    private static final String API_KEY = BuildConfig.API_KEY;
     private static final String PARAM_PAGE = "page";
 
 
